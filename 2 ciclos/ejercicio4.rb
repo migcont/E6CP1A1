@@ -13,6 +13,5 @@ b = ''
 
 a.times do
   b = "<li> hola </li>\n"
+  puts b
 end
-
-puts b
