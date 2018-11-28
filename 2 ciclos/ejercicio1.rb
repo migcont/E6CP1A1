@@ -6,5 +6,7 @@
 #end
 
 10.times do |n|
-  puts n
+  puts n + 1
 end
+#n + 1 para mostrar del 1 al 10
+#terminado
