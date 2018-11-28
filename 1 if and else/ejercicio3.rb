@@ -1,7 +1,14 @@
 # Hacer un refactoring, transformando las líneas de la 5 a la 7 en una sola.
 
-a = 'X9-by'
+#a = 'X9-by'
 
-if a == 'X9-by'
-  puts 'HOLA!'
-end
+#if a == 'X9-by'
+#  puts 'HOLA!'
+#end
+
+#pendiente
+
+#refactoring
+
+a = 'X9-by'
+puts 'hola' if a == 'X9-by'
